@@ -1,3 +1,4 @@
+#print N numbers
 n=int(input("Enter a Number :-"))
 i=1
 while (i<=n):
