@@ -10,4 +10,4 @@ elif marks>=60 and marks<70:
 elif marks>=30 and marks<60:
     print("E - Grade")
 else:
-    print("F - Grade")
+    print("F - Grade") 
