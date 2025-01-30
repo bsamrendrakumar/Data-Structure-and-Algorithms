@@ -1,3 +1,6 @@
+# first loop represent the rows
+#second loop represent the column
+
 n=int(input("Enter a Number :- "))
 ch = "A"
 for i in range(1,n+1,1):
